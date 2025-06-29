@@ -1,7 +1,7 @@
 # edit.com
 A barebones linux terminal text editor that wants to mimic Microsoft's MS-DOS Edit
 
-I am trying to learn C++ without having to instantiate classes to avoid using new and delete.\
+I am trying to learn modern C++ without having to instantiate classes to avoid using new and delete.\
 \
 Why? Because I'm sick and tired of everyone hyping up Rust and putting down C++. So I thought I'll learn C++ by creating an edit.com-like terminal text editor for Linux. I just miss edit.com so much. Who knows, maybe other old farts like me out there are also missing the old DOS edit and wants it on Linux. That will make me a star in their eyes!\
 \
