@@ -13,4 +13,4 @@ Sucks. But here is the state of my learning. It doesn't even scroll yet, but at 
 \
 So here it is in its pure rough state, just to let you know where it is now. It's not very usable yet as it doesn't even open and save to a file yet. I'm still working on it so this is a work in progress.\
 \
-No, I'm not yet confident about my source code so you won't be seeing it any time soon. I don't want to be impaled and pilloried by the masters. Not yet.
+No, I'm not yet confident about my source code so you won't be seeing it any time soon. I don't want to be impaled and pilloried by the masters.
