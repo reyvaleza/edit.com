@@ -11,4 +11,6 @@ So I started on this text editor since last month (May) and learning C++ slowly.
 \
 Sucks. But here is the state of my learning. It doesn't even scroll yet, but at least the code is just over 1,000 lines. After adding scrolling, and maybe double-buffering, and maybe undo-redo, I hope it doesn't reach over 2,000 lines. The only class I did is the TextBuffer class, which I made as a singleton by way of a static instance so I don't have to instatiate.\
 \
-So here it is in its pure rough state, just to let you know where it is now. It's not very usable yet as it doesn't even open and save to a file yet. I'm still working on it so this is a work in progress.
+So here it is in its pure rough state, just to let you know where it is now. It's not very usable yet as it doesn't even open and save to a file yet. I'm still working on it so this is a work in progress.\
+\
+No, I'm not yet confident about my source code so you won't be seeing it any time soon. I don't want to be impaled and pilloried by the masters. Not yet.\
