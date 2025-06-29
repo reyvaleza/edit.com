@@ -1,5 +1,5 @@
 # edit.com
-A barebones linux terminal text editor that wants to mimic Microsoft's MS-DOS Edit
+A barebones linux terminal text editor that will try to mimic Microsoft's MS-DOS Edit
 
 I am trying to learn modern C++ without having to instantiate classes to avoid using new and delete.\
 \
