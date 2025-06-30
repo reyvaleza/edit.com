@@ -7,7 +7,7 @@ Because I'm sick and tired of the Rust hype, that's why. So I thought I'll learn
 \
 So I started on this text editor last month (May 2025) and learning modern C++ at the same time. But lo and behold, on mid-June, Microsoft announced the revival of the [MS-DOS Editor!](https://github.com/microsoft/edit) In Rust! And made it work for Linux too! Microsoft stole my thunder!!!\
 \
-Sucks. But here is my output so far. It doesn't even scroll yet, but at least the code is just over 1,000 lines for now. After adding scrolling, and maybe double-buffering, and maybe undo-redo, I hope it doesn't reach over 2,000 lines. I want to avoid classes so I won't do new and delete but I have to do the TextBuffer class, so I made it a Singleton by way of a static method so I don't have to instatiate and use pointers, just a reference variable. I always compile with a -std=c++23.\
+Sucks. But here is my output so far. It doesn't even scroll yet, but at least the code is just over 1,000 lines for now. After adding scrolling, and maybe double-buffering, and maybe undo-redo, I hope it doesn't reach over 2,000 lines. I want to avoid classes but I have to create the TextBuffer and Screen classes, so I made them a Singletons by way of static methods so I don't have to instatiate and use pointers and new and delete, just reference variables. I always compile with a -std=c++23 switch.\
 \
 So here it is in its pure rough state. It's not very usable yet as it doesn't even open and save to a file yet. It is a work in progress -:).\
 \
